@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".OnboardingThreeActivity"></activity>
+        <activity android:name=".SigninActivity"></activity>
+        <activity android:name=".OnboardingThreeActivity" />
         <activity android:name=".OnboardingTwoActivity" />
         <activity android:name=".OnboardingOneActivity" />
         <activity android:name=".MainActivity" />

@@ -6,4 +6,7 @@
     <string name="understand">Understand</string>
     <string name="goal">Goal</string>
     <string name="sign_in">Sign in</string>
+    <string name="signin_continue">Signin continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
 </resources>
