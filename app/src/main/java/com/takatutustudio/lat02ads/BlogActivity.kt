@@ -11,9 +11,9 @@ class BlogActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_blog)
 
-        Toast.makeText(this,"Silahkan tunggu...", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this,"Silahkan tunggu..", Toast.LENGTH_SHORT).show()
 
-        web_blog.loadUrl("https://aet.co.id/tentang-kami/")
+        web_blog.loadUrl("https://www.qmfinancial.com/blog-dan-artikel/")
         web_blog.settings.javaScriptEnabled
     }
 }
