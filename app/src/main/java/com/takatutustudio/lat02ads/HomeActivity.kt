@@ -23,7 +23,7 @@ class HomeActivity : AppCompatActivity() {
          **/
     }
 
-    //Menambahkan Fungsi onBackPrassed
+    //Menambahkan Fungsi onBackPrassed (AlertDialog)
 
     override fun onBackPressed() {
         AlertDialog.Builder(this)
